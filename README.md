@@ -3,18 +3,18 @@
 My name id Igor Zavalin. I'm living in Moscow, Russia. I'm a Java-developer.
 
 ## Technologies & Tools
-- IDEA
--  Spring Framework
--   Hibernate
--    Maven
--   JUnit
--  Mockito
--   Java Core
--   Postman
--   JDBC
--    SQL
+- Spring Boot
+- Java Core
+- PosrgreSQL
+- SQL
+- JUnit
+- Mockito
 - Liquibase
--  Spring Boot
+- Maven
+- Docker
+- Postman
+- IntelliJ IDEA
+- Git
 
 <!--
 **Garik-create/Garik-create** is a ✨ _special_ ✨ repository because i ts `README.md` (this file) appears on your GitHub profile.
