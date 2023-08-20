@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name id Igor Zavalin. I'm living in Moscow, Russia. I'm a Java-developer.
+My name is Igor Zavalin. I'm living in Moscow, Russia. I'm a Java-developer.
 
 ## Technologies & Tools
 - Spring Boot
